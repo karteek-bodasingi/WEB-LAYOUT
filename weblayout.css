@@ -1,0 +1,39 @@
+
+.KARTEEK{
+    background-color: black;
+    padding: 50px;
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+section{
+    display: flex;
+    
+    text-align: center;
+}
+
+nav{
+    
+    height: 300px;
+    width: 30%;
+    background: grey;
+    color: black;
+    
+}
+
+article{
+    background-color: white;
+
+}
+
+#KB{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+    padding: 50px;
+}
+
+
